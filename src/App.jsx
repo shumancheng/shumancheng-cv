@@ -3,6 +3,7 @@ import { BrowserRouter } from "react-router-dom";
 import {
   About,
   Contact,
+  Edu,
   Experience,
   Feedbacks,
   Hero,
@@ -20,6 +21,7 @@ const App = () => {
           <Hero />
         </div>
         <About />
+        <Edu />
         <Experience />
         <Tech />
         <Works />

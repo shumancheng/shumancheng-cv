@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import GetImage from "./GetImage.png";
+import logo2 from "./logo-me.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -31,8 +32,26 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import fau from "./logo/fauLogo.png";
+import upm from "./logo/upmlogo.jpg";
+import pisa from "./logo/PISA_logo.png";
+import ncu from "./logo/nculogo.png";
+import fhooe from "./logo/fhooeLogo.png";
+import shs from "./logo/siemens-healthineers3989.jpg"
+import lenovo from "./logo/lenovoLogo.png";
+import catcher from "./logo/catcherlogo.png";
+
 export {
+  fau,
+  upm,
+  pisa,
+  ncu,
+  fhooe,
+  shs,
+  lenovo,
+  catcher,
   logo,
+  logo2,
   GetImage,
   backend,
   creator,

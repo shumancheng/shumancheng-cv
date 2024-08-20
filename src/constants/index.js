@@ -23,7 +23,16 @@ import {
     jobit,
     tripguide,
     threejs,
+    fau,
+    upm,
+    pisa,
+    ncu,
+    fhooe,
+    shs,
+    lenovo,
+    catcher,
   } from "../assets/assets";
+
   
   export const navLinks = [
     {
@@ -31,8 +40,16 @@ import {
       title: "About",
     },
     {
+      id: "edu",
+      title: "Education",
+    },
+    {
       id: "work",
       title: "Work",
+    },
+    {
+      id: "projects",
+      title: "Projects",
     },
     {
       id: "contact",
@@ -46,7 +63,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Frontend Developer",
       icon: mobile,
     },
     {
@@ -54,7 +71,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Game Developer",
       icon: creator,
     },
   ];
@@ -113,88 +130,110 @@ import {
       icon: docker,
     },
   ];
+
+  const education = [
+    {
+      title: "Master's degree | International Information Systems",
+      company_name: "University of Erlangen-Nuremberg  (Erlangen & Nürnberg, Germany)",
+      icon: fau,
+      iconBg: "#383E56",
+      date: "Sep 2022 - Present",
+      points: [
+        "Human Computer Interaction:  User engagement in digital environments",
+        "Conceptual Modelling: Implementation of SQL-databases using ER diagram in UML ",
+        "Natural Language Processing: Python based classification of climate change impacts in annual reports.",
+        "Designing Gamified Systems: Development of a gamified mobile app using Unity and C#.",
+      ],
+    },
+    {
+      title: "Summer School | Artificial Intelligence",
+      company_name: "Technical University of Madrid (Madrid, Spain)",
+      icon: upm,
+      iconBg: "#E6DEDD",
+      date: "July 2024 - July 2024",
+      points: [
+        "Full scholarship provided by the EELISA FAU",
+        "Artificial Intelligence and Deep Learning",
+        "Computer vision with deep learning",
+        "Natural language processing (NLP) with deep learning",
+      ],
+    },
+    {
+      title: "Seasonal School | Data Strategy",
+      company_name: "Sant Anna Pisa University (Pisa, Italy)",
+      icon: pisa,
+      iconBg: "#E6DEDD",
+      date: "Feb 2024 - Mar 2024",
+      points: [
+        "Full scholarship provided by the EELISA FAU",
+        "AI-based and robotics applications to restore functionalities and reduce the impairments of personal injuries",
+        "Focused on digitalisation and predictive tools to assess pecuniary and non-pecuniary losses",
+        "Case studies: new risk management strategies for digital scenarios",
+      ],
+    },
+    {
+      title: "Bachelor's degree | Business Administration",
+      company_name: "National Central University (Taoyuan, Taiwan)",
+      icon: ncu,
+      iconBg: "#E6DEDD",
+      date: "Sep 2016 - Jun 2020",
+      points: [
+        "Programming for Business Analytics: Performed statistical analyses with SAS",
+        "ERP System Administration: Operated SAP S/4HANA and Mini SAP ",
+        "Statistics: Data processing with R",
+      ],
+    },
+    {
+      title: "Exchange Student | International Logistics Management",
+      company_name: "University of Applied Sciences Upper Austria (Steyr, Austria)",
+      icon: fhooe,
+      iconBg: "#E6DEDD",
+      date: "Sep 2018 - Feb 2019",
+      points: [
+        "Marketed Taiwan to foreigners with different approaches",
+        "Cross-Cultural Sales and Management",      ],
+    },
+  ];
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
-      iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      title: "Data Analytics | Working Student",
+      company_name: "Siemens Healthineers (Erlangen, Germany)",
+      icon: shs,
+      iconBg: "#E6DEDD",
+      date: "May 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Conducting data analysis, including data cleaning and validation, utilizing advanced Excel techniques",
+        "Synthesized and presented data insights through PowerPoint presentations",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "R&D Project Manager",
+      company_name: "Lenovo Group (Taipei, Taiwan)",
+      icon: lenovo,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Headed cross-functional teams (15 members) across 3 countries",
+        "Presented project status and potential difficulties with statistical information to director in weekly meeting",
+        "Analyzed and summarized data with Excel PivotTable (50,000+ data) for customer",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
+      title: "Quality Insurance | Internship",
+      company_name: "Catcher Technology Co., Ltd. (Tainan, Taiwan)",
+      icon: catcher,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Jul 2019 - Sep 2019",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Facilitated cross-departmental communications, balancing varying opinions and values",
+        "Wrote risk assessments for factory related instruments; figured out how to improve and avoid the risks",
+        "Using ISO specifications established product reliability standards to meet customers' requirements within a given confidence interval",
       ],
     },
   ];
   
-  const testimonials = [
-    {
-      testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
-    },
-    {
-      testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-      testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
-    },
-  ];
+
   
   const projects = [
     {
@@ -262,4 +301,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, technologies, education, experiences, projects };
