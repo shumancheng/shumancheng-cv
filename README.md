@@ -15,7 +15,6 @@ You can view the live version of my CV here: [https://shumancheng.github.io/shum
 ## Technologies Used
 
 - **React**: Frontend library for building user interfaces
-- **TypeScript**: Static type checking for JavaScript
 - **Vite**: Build tool for modern web projects
 - **Tailwind CSS**: Utility-first CSS framework
 
