@@ -8,6 +8,9 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import fontanQuest from "./fontanquest.png";
+import miniMeco from "./miniMeco.png";
+import NutriMate from "./NutriMate.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -42,6 +45,9 @@ import lenovo from "./logo/lenovoLogo.png";
 import catcher from "./logo/catcherlogo.png";
 
 export {
+  fontanQuest,
+  miniMeco,
+  NutriMate,
   fau,
   upm,
   pisa,

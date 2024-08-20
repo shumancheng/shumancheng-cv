@@ -31,6 +31,9 @@ import {
     shs,
     lenovo,
     catcher,
+    fontanQuest,
+    miniMeco,
+    NutriMate,
   } from "../assets/assets";
 
   
@@ -140,7 +143,7 @@ import {
       date: "Sep 2022 - Present",
       points: [
         "Human Computer Interaction:  User engagement in digital environments",
-        "Conceptual Modelling: Implementation of SQL-databases using ER diagram in UML ",
+        "Pattern Recognition: Implementation of machine learning algorithms",
         "Natural Language Processing: Python based classification of climate change impacts in annual reports.",
         "Designing Gamified Systems: Development of a gamified mobile app using Unity and C#.",
       ],
@@ -237,33 +240,33 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Mini-Meco",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Developed a Node.js application with a React-based interface and SQLite database to support agile project management. This tool serves as an educational example in advanced programming courses at FAU Erlangen-Nürnberg",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "typescript",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "node.js",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: miniMeco,
+      source_code_link: "https://github.com/shumancheng/Mini-Meco",
     },
     {
-      name: "Job IT",
+      name: "Fontan Quest",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Created a mobile game using Unity and C# to motivate post-Fontan surgery children to engage in physical activity, integrating Garmin Smartwatches for real-time feedback. ",
       tags: [
         {
-          name: "react",
+          name: "C#",
           color: "blue-text-gradient",
         },
         {
@@ -271,33 +274,33 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "unity",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: fontanQuest,
+      source_code_link: "https://github.com/Salazifel/FontanQuest",
     },
     {
-      name: "Trip Guide",
+      name: "NutriMate",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Built an AI-powered mobile app using React Native, Fastify, and MongoDB to simplify nutrition tracking and provide personalized health advice, particularly for users with specific dietary needs",
       tags: [
         {
-          name: "nextjs",
+          name: "react native",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "typescript",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "mongoDB",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: NutriMate,
+      source_code_link: "https://github.com/rmotafreitas/hackupc2324",
     },
   ];
   
