@@ -1,4 +1,4 @@
-# Shumancheng CV
+# Shu-Man Cheng's CV
 
 Welcome to my personal portfolio website! This repository contains the source code for my online CV, showcasing my skills, projects, and experience.
 
