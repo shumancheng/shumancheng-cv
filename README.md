@@ -8,7 +8,6 @@ You can view the live version of my CV here: [https://shumancheng.github.io/shum
 
 ## Features
 
-- Responsive design
 - Modern web technologies
 - Showcases skills, projects, and contact information
 
