@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/shumancheng-cv.git
+   git clone https://github.com/shumancheng/shumancheng-cv.git
 
 2. **Navigate to the Project Directory:**
    ```bash
