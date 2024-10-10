@@ -201,6 +201,7 @@ import {
   ];
   
   const experiences = [
+    /*
     {
       title: "Augmented Reality for Computed Tomography | Internship",
       company_name: "Fraunhofer IIS (Passau, Germany)",
@@ -212,6 +213,7 @@ import {
         "Implement software modules in the area of augmented reality based visualization and analysis of computed tomography data",
       ],
     },
+    */
     {
       title: "Interview Transcribing | Master Thesis Student",
       company_name: "QDAcity GmbH (Erlangen, Germany)",
