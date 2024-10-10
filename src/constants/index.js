@@ -241,7 +241,7 @@ import {
       company_name: "Lenovo Group (Taipei, Taiwan)",
       icon: lenovo,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Jul 2020 - Aug 2022",
       points: [
         "Headed cross-functional teams (15 members) across 3 countries",
         "Presented project status and potential difficulties with statistical information to director in weekly meeting",
