@@ -34,6 +34,8 @@ import {
     fontanQuest,
     miniMeco,
     NutriMate,
+    fraunhoferIcon,
+    qdacityIcon,
   } from "../assets/assets";
 
   
@@ -62,15 +64,15 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Full-Stack Developer",
       icon: web,
     },
     {
-      title: "Frontend Developer",
+      title: "AR / VR Developer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Web Developer",
       icon: backend,
     },
     {
@@ -200,14 +202,36 @@ import {
   
   const experiences = [
     {
+      title: "Augmented Reality for Computed Tomography | Internship",
+      company_name: "Fraunhofer IIS (Passau, Germany)",
+      icon: fraunhoferIcon,
+      iconBg: "#E6DEDD",
+      date: "Nov 2024 - present",
+      points: [
+        "Design and development of augmented reality applications for data visualization and analysis",
+        "Implement software modules in the area of augmented reality based visualization and analysis of computed tomography data",
+      ],
+    },
+    {
+      title: "Interview Transcribing | Master Thesis Student",
+      company_name: "QDAcity GmbH (Erlangen, Germany)",
+      icon: qdacityIcon,
+      iconBg: "#E6DEDD",
+      date: "Oct 2024 - present",
+      points: [
+        "Enhance user experience by implementing new features and fixing bugs",
+        "Improve the performance of the application by optimizing the code",
+      ],
+    },
+    {
       title: "Data Analytics | Working Student",
       company_name: "Siemens Healthineers (Erlangen, Germany)",
       icon: shs,
       iconBg: "#E6DEDD",
-      date: "May 2023 - Present",
+      date: "May 2023 - Oct 2024",
       points: [
-        "Conducting data analysis, including data cleaning and validation, utilizing advanced Excel techniques",
-        "Synthesized and presented data insights through PowerPoint presentations",
+        "Utilized Excel and Power Query to streamline data tracking and analysis, ensuring accurate and actionable insights",
+        "Conducted data analysis, including data cleaning and validation",
       ],
     },
     {

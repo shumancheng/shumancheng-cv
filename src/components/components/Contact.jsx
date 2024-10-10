@@ -21,7 +21,7 @@ const Contact = () => {
           href="mailto:shumancheng@gmail.com"
           style={{ color: "inherit", textDecoration: "underline" }}
         >
-          shumancheng@gmail.com
+          shumancheng0119@gmail.com
         </a>{" "}
         or connect with me on{" "}
         <a

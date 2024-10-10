@@ -43,8 +43,12 @@ import fhooe from "./logo/fhooeLogo.png";
 import shs from "./logo/siemens-healthineers3989.jpg"
 import lenovo from "./logo/lenovoLogo.png";
 import catcher from "./logo/catcherlogo.png";
+import fraunhoferIcon from "./logo/fraunhoferIcon.png";
+import qdacityIcon from "./logo/qdacityIcon.png";
 
 export {
+  fraunhoferIcon,
+  qdacityIcon,
   fontanQuest,
   miniMeco,
   NutriMate,

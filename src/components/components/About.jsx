@@ -47,14 +47,16 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am an M.Sc. student in Information Systems at Friedrich Alexander
-        University Erlangen-Nuremberg, with hands-on experience in software
-        development, particularly in frontend, backend, and full-stack projects.
-        My current IT project at Professorship for Open-Source Software has
-        sharpened my ability to deliver high-quality software solutions. I am
-        now seeking opportunities as a Frontend Developer, Software Developer,
-        or Fullstack Developer, where I can apply my technical skills and
-        project experience to contribute to innovative software solutions.
+        I am an M.Sc. student in Information Systems at
+        Friedrich-Alexander-Universität Erlangen-Nürnberg, with hands-on
+        experience in software development across frontend, backend, and
+        full-stack projects. Having successfully completed a full-stack web
+        application at the Professorship for Open-Source Software, I am now
+        focusing on interview transcribing for my master's thesis at QDAcity, as
+        well as augmented reality development for computed tomography at
+        Fraunhofer IIS. I am actively seeking opportunities as a Full-Stack
+        Developer or AR/VR Developer, where I can apply my technical expertise
+        and diverse project experience to contribute to innovative solutions.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
