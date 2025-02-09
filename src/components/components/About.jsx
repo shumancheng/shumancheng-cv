@@ -48,16 +48,15 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         I am a Master’s student in Information Systems at
-        Friedrich-Alexander-Universität Erlangen-Nürnberg, with comprehensive
-        experience in software development across frontend, backend, and
-        full-stack projects. After successfully developing a full-stack web
-        application with the Professorship for Open-Source Software, I am now
-        focusing on advanced interview transcribing technology for my master’s
-        thesis at QDAcity and pioneering augmented reality (AR) applications for
-        computed tomography at Fraunhofer IIS. I am actively seeking
-        opportunities as a Full-Stack Developer or AR/VR Developer, where I can
-        leverage my technical skills and project experience to contribute to
-        impactful and innovative solutions.
+        Friedrich-Alexander-Universität Erlangen-Nürnberg with extensive
+        experience in full-stack software development. After developing a
+        full-stack web application at the Professorship for Open-Source
+        Software, I am now focused on improving the scalability and user
+        experience of a transcription service for my master’s thesis at QDAcity
+        and augmented reality applications for computed tomography at Fraunhofer
+        IIS. I am actively seeking opportunities as a Full-Stack Developer or
+        AR/VR Developer to apply my technical skills and drive innovation in
+        impactful projects.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

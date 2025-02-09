@@ -142,7 +142,7 @@ import {
       company_name: "University of Erlangen-Nuremberg  (Erlangen & Nürnberg, Germany)",
       icon: fau,
       iconBg: "#383E56",
-      date: "Sep 2022 - Present",
+      date: "Sep 2022 - Present (Expected: Jul 2025)",
       points: [
         "Human Computer Interaction:  User engagement in digital environments",
         "Pattern Recognition: Implementation of machine learning algorithms",
@@ -208,8 +208,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Nov 2024 - present",
       points: [
-        "Design and development of augmented reality applications for data visualization and analysis",
-        "Implement software modules in the area of augmented reality based visualization and analysis of computed tomography data",
+        "Develop AR applications for visualizing CT scan data in 2D and 3D using Unity, Vuforia, and Magic Leap 2",
+        "Design and implement interactive 3D interfaces using MRTK3, enabling users to resize, manipulate, and interact with CT scan models",
+        "Collaborate with interdisciplinary teams to refine AR visualization techniques, improving user understanding of complex imaging data",
+        "Manage the entire development cycle, from conceptual design to implementation and testing on Magic Leap 2",
       ],
     },
     {
@@ -219,8 +221,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Oct 2024 - present",
       points: [
-        "Enhance user experience by implementing new features and fixing bugs",
-        "Improve the performance of the application by optimizing the code",
+        "Refactor the application's backend from Java to Transcriptoin Service (Node.js), enhancing performance and scalability",
+        "Integrate Google Cloud Speech-to-Text API, improving transcription accuracy and enabling speaker diarization",
+        "Develop a secure authentication system, implementing token-based authentication between the Java backend, client, and transcription service",
+        "Improve error handling by creating a React-based notification system, displaying real-time error messages from Google STT",
       ],
     },
     {
@@ -230,8 +234,8 @@ import {
       iconBg: "#E6DEDD",
       date: "May 2023 - Oct 2024",
       points: [
-        "Utilized Excel and Power Query to streamline data tracking and analysis, ensuring accurate and actionable insights",
-        "Conducted data analysis, including data cleaning and validation",
+        "Analyzed C-level customer journey data, providing key insights to senior management for strategic decision-making",
+        "Conducted global workforce analysis, consolidating data from multiple platforms to assess marketing team distribution and optimize resource allocation",
       ],
     },
     {
@@ -241,9 +245,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Jul 2020 - Aug 2022",
       points: [
-        "Headed cross-functional teams (15 members) across 3 countries",
-        "Presented project status and potential difficulties with statistical information to director in weekly meeting",
-        "Analyzed and summarized data with Excel PivotTable (50,000+ data) for customer",
+        "Led a cross-functional team (9 members) across 3 countries, ensuring on-time project delivery and alignment with customer expectations",
+        "Managed task delegation, status tracking, and regular team meetings, optimizing workflow efficiency and team coordination",
+        "Facilitated customer meetings and negotiations, aligning stakeholder expectations and resolving cross-team dependencies",
+        "Oversaw supply chain logistics, tracking materials and ensuring timely product assembly and delivery",
       ],
     },
     {
