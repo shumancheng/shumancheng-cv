@@ -142,7 +142,7 @@ import {
       company_name: "University of Erlangen-Nuremberg  (Erlangen & Nürnberg, Germany)",
       icon: fau,
       iconBg: "#383E56",
-      date: "Sep 2022 - Present (Expected: Jul 2025)",
+      date: "Sep 2022 - Present (Expected: Sep 2025)",
       points: [
         "Human Computer Interaction:  User engagement in digital environments",
         "Pattern Recognition: Implementation of machine learning algorithms",
@@ -219,12 +219,12 @@ import {
       company_name: "QDAcity GmbH (Erlangen, Germany)",
       icon: qdacityIcon,
       iconBg: "#E6DEDD",
-      date: "Oct 2024 - present",
+      date: "Oct 2024 - Jul 2025",
       points: [
-        "Refactor the application's backend from Java to Transcriptoin Service (Node.js), enhancing performance and scalability",
-        "Integrate Google Cloud Speech-to-Text API, improving transcription accuracy and enabling speaker diarization",
-        "Develop a secure authentication system, implementing token-based authentication between the Java backend, client, and transcription service",
-        "Improve error handling by creating a React-based notification system, displaying real-time error messages from Google STT",
+        "Refactored the application's backend from Java to Transcription Service (Node.js), enhancing performance and scalability",
+        "Integrated Google Cloud Speech-to-Text API, improving transcription accuracy and enabling speaker diarization",
+        "Developed a secure authentication system, implementing token-based authentication between the Java backend, client, and transcription service",
+        "Improved error handling by creating a React-based notification system, displaying real-time error messages from Google STT",
       ],
     },
     {

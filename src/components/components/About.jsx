@@ -49,11 +49,10 @@ const About = () => {
       >
         I am a Master’s student in Information Systems at
         Friedrich-Alexander-Universität Erlangen-Nürnberg with extensive
-        experience in full-stack software development. After developing a
+        experience in full-stack software development. I have developed a
         full-stack web application at the Professorship for Open-Source
-        Software, I am now focused on improving the scalability and user
-        experience of a transcription service for my master’s thesis at QDAcity
-        and augmented reality applications for computed tomography at Fraunhofer
+        Software and improved the scalability and user experience of a transcription service for my master’s thesis at QDAcity.
+        Currently, I am working on augmented reality applications for computed tomography at Fraunhofer
         IIS. I am actively seeking opportunities as a Full-Stack Developer or
         AR/VR Developer to apply my technical skills and drive innovation in
         impactful projects.
